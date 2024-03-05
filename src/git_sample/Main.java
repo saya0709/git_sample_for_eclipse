@@ -9,8 +9,7 @@ public class Main {
 		
 		// make feature branch
 		System.out.println("on master branch");
-		
-		
+		System.out.println("on feature branch");
 		
 		
 	}
